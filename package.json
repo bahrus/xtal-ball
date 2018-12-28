@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/bahrus/xtal-ball.git"
   },
+  "dependencies": {
+    "xtal-latx": "0.0.88",
+    "@tarekraafat/autocomplete.js": "2.0.1"
+  },
   "keywords": [
     "autocomplete",
     "dropdown",
