@@ -1,0 +1,27 @@
+{
+  "name": "xtal-ball",
+  "version": "0.0.0",
+  "description": "Web component wrapper around autocomplete.js",
+  "main": "xtal-ball.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/xtal-ball.git"
+  },
+  "keywords": [
+    "autocomplete",
+    "dropdown",
+    "combobox",
+    "suggest",
+    "suggestions",
+    "search"
+  ],
+  "author": "anderson.bruce.b@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/xtal-ball/issues"
+  },
+  "homepage": "https://github.com/bahrus/xtal-ball#readme"
+}
